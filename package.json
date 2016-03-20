@@ -1,0 +1,19 @@
+{
+  "name": "grunt-reload",
+  "version": "1.0.0",
+  "devDependencies": {
+        "grunt": "latest",
+        "matchdep": "latest",
+        "grunt-express": "latest",
+        "grunt-contrib-watch": "latest",
+        "grunt-open": "latest",
+        "grunt-contrib-cssmin": "latest",
+        "grunt-contrib-jshint": "latest",
+        "grunt-contrib-less": "latest",
+        "grunt-contrib-uglify": "latest",
+        "grunt-notify": "latest",
+        "jshint-stylish": "latest",
+        "less-plugin-autoprefix": "latest"
+  }
+}
+
